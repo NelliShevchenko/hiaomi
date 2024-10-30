@@ -47,7 +47,7 @@ body {
 }
 
 .menu__item + .menu__item {
-
+    padding-left: 10px;
 }
 
 .menu__link {
